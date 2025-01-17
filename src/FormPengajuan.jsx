@@ -19,7 +19,6 @@ const FormPengajuan = ({ onTambahPengajuan, setApproved }) => {
       return;
     }
 
-    // Tambahkan data pengajuan
     const dataBaru = {
       nik,
       nama,
